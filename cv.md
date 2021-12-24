@@ -4,7 +4,7 @@
 * **Location:** Gomel, Belarus
 * **Phone:** +375 33 365-62-32
 * **Email:** andrew.dmitrakov@gmail.com
-* **GitHub:** https://github.com/tipoAnderson
+* **GitHub:** [tipoAnderson](https://github.com/tipoAnderson)
 ## About me
 I am attentive to details, patient, creative, hard-working, quality-oriented and persistent. I am team player results driven eager to learn.
 ## Skills
@@ -20,9 +20,9 @@ return a * b
 }
 ```
 ## Experience
-* (Binary)[https://github.com/tipoAnderson/binary.git]
+* [Binary](https://github.com/tipoAnderson/binary.git)
 * CV
 ## Education
 * Francisk Skorina Gomel State Univesity (phsical engineer)
-## English
+## English skill
 A0 - A1
