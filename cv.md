@@ -19,3 +19,10 @@ function multiply (a, b) {
 return a * b
 }
 ```
+## Experience
+* (Binary)[https://github.com/tipoAnderson/binary.git]
+* CV
+## Education
+* Francisk Skorina Gomel State Univesity (phsical engineer)
+## English
+A0 - A1
